@@ -1,2 +1,4 @@
 # python
-Random python scripts
+Description: Random python scripts
+
+**mp3.py**: Converts youtube playlist to mp3. 
